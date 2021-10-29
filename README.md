@@ -19,6 +19,7 @@
 Project developed using the following technologies:
 
 - [React](https://reactjs.org/)
+- [Redux](https://redux.js.org/)
 - [Sass](https://sass-lang.com/)
 - [Firebase](https://firebase.google.com/)
 
