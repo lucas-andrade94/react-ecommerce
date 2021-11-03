@@ -20,7 +20,7 @@ Project developed using the following technologies:
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
-- [Sass](https://sass-lang.com/)
+- [Styled-components](https://styled-components.com/)
 - [Firebase](https://firebase.google.com/)
 - [Stripe](https://stripe.com/en-ca)
 
