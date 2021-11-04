@@ -11,7 +11,9 @@ import CollectionItem from "../collection-item/collection-item.component";
 const CollectionPreview = ({ title, items }) => {
   return (
     <CollectionPreviewContainer>
-      <Title>{title.toUpperCase()}</Title>
+      <Title as="a" href={`shop/${title.toLowerCase()}`}>
+        {title.toUpperCase()}
+      </Title>
       <Preview>
         {items
           .filter((item, index) => index < 4)
